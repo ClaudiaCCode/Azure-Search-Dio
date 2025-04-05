@@ -8,12 +8,12 @@
 As organizações tem muito conteúdo, os dados estão bloqueados em documentos PDFs, notas manuscritas, etc. Portanto a mineração de conhecimentos encontra insights em escala, palavras chaves, frases chaves, informações importantes que percisam ser coletadas para a pesquisa e posterior análise.
 '''
 
-O Azure Cognitive Search, vem ajudar na busca por esss dados e insights de forma acertiva, por meio de uma pré-programação de critérios essenciais sobre a análise de cada dado coletado, que o sistema irá realizar. 
+O Azure Cognitive Search, vem ajudar na busca por esses dados e insights de forma acertiva, por meio de uma pré-programação de critérios essenciais sobre a análise de cada dado coletado, que o sistema irá realizar. 
 
 '''
 
 Neste trabalo vamos discorrer sobre uma função mais operacional do Azure para obtermos os dados que precisamos para as análises de pesquisas.
-Nese caso teremos alguns passos que deveremos seguir, além de deixar claro o objetivo da pesquisa e sua funcionalidade.
+Nesse caso teremos alguns passos que deveremos seguir, além de deixar claro o objetivo da pesquisa e sua funcionalidade.
 Como exemplo de recurso de pesquisa temos o ***Azure AI Search*** : plataforma de mineração de conhecimento alimentada pela inteligência artificial, entre outros que vamos citar a seguir.
 
 '''
